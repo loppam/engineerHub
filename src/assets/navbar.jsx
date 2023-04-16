@@ -3,6 +3,8 @@ import { Link } from "react-router-dom";
 import { FaBars, FaTimes } from "react-icons/fa";
 import Logo from "../img/logo2.png";
 import "./navbar.css";
+import { Avatar } from "@mui/material";
+
 
 const navbar = () => {
   const [Mobile, setMobile] = useState(false);
@@ -40,6 +42,7 @@ const navbar = () => {
           <li>
             <Link to="#contact">Team</Link>
           </li>
+<li><Avatar className="center" src="/broken-image.jpg" /></li>
         </ul>
         <button className="mobile-menu-icon" onClick={() => setMobile(!Mobile)}>
           {Mobile ? <FaTimes /> : <FaBars />}

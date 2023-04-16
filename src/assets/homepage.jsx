@@ -35,7 +35,7 @@ const homepage = () => {
                 </div>
                 <div className="job-name">Hiring for Node.js Developer Intern</div>
                 <ul className="incard">
-                    <li>TechStack:</li>
+                    <li>TechStack: Express.js, Node.js, MongoDB</li>
                     <li>Experience: 0 - 2 Years</li>
                     <li>Eligibilty: Min 6 CGPA</li>
                 </ul>
@@ -52,7 +52,7 @@ const homepage = () => {
                 </div>
                 <div className="job-name">Hiring for Campus Ambassador</div>
                 <ul className="incard">
-                    <li>TechStack:</li>
+                    <li>TechStack: Leadership, Team Work</li>
                     <li>Experience: 0 - 1 Years</li>
                     <li>Eligibilty: Min 5 CGPA</li>
                 </ul>
@@ -69,7 +69,7 @@ const homepage = () => {
                 </div>
                 <div className="job-name">Hiring for DevOps Mentor</div>
                 <ul className="incard">
-                    <li>TechStack:</li>
+                    <li>TechStack: Docker, Kubernetes</li>
                     <li>Experience: 0 - 1 Years</li>
                     <li>Eligibilty: Min 6 CGPA</li>
                 </ul>
@@ -86,7 +86,7 @@ const homepage = () => {
                 </div>
                 <div className="job-name">Node.js Developer Intern</div>
                 <ul className="incard">
-                    <li>TechStack:</li>
+                    <li>TechStack: Express.js, Node.js, MongoDB</li>
                     <li>Experience: 0 - 2 Years</li>
                     <li>Eligibilty: Min 6 CGPA</li>
                 </ul>

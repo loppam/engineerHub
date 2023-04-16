@@ -50,7 +50,9 @@
     li:hover{
       border-bottom: 1px solid #407af1;
     }
-  
+    ul.incard li{
+      all: unset;
+    }
     .mobile-menu-icon {
       transition: all 0.5s ease-in-out;
       position: absolute;
